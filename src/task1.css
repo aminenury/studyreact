@@ -1,0 +1,18 @@
+.container {
+    display: flex;
+    justify-content: center; 
+    align-items: center; 
+    height: 100vh; 
+  }
+  
+  .image {
+    margin-right: 500px; 
+  }
+  
+  .text {
+    width: 600px; 
+    height: auto; 
+    max-width: 100%; 
+    
+    padding: 15px; 
+  }
